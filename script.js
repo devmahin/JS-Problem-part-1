@@ -69,3 +69,10 @@ function kilometers(k){
 }
 let kilo = kilometers (5);
 console.log(kilo)
+
+
+
+
+
+
+
